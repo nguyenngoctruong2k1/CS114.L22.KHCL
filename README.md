@@ -1,4 +1,4 @@
-#CS114.L22.KHCL
+# CS114.L22.KHCL
 # Môn học: Machine Learning
 - Họ và tên: Nguyễn Ngọc Trưởng
 - Khóa: K14-2019
